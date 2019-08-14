@@ -10,8 +10,8 @@ def division(num1, num2)
       20 / 10 = 2
 end
 
-def multiplication(num1, num2)
-
+def multiplication(num1, num2) 1
+      5 *
 end
 
 def modulo(num1, num2)
